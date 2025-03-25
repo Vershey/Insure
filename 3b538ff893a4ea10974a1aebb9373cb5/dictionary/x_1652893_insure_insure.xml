@@ -31,5 +31,6 @@
             </choice>
         </element>
         <element default="Tittus" label="FirstName" max_length="40" name="firstname" type="string"/>
+        <element default="Barry" label="LastName" max_length="40" name="lastname" type="string"/>
     </element>
 </database>
