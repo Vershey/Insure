@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="employeername" table="x_1652893_insure_insure">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="employeer_name" table="x_1652893_insure_insure">
         <active>true</active>
         <array>false</array>
-        <attributes/>
+        <attributes>edge_encryption_enabled=true</attributes>
         <audit>false</audit>
         <calculation/>
         <choice>0</choice>
@@ -21,7 +21,7 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>employeername</element>
+        <element>employeer_name</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <formula/>
@@ -46,14 +46,15 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2025-03-25 15:38:58</sys_created_on>
-        <sys_name>FirstName</sys_name>
+        <sys_created_on>2025-03-25 18:10:26</sys_created_on>
+        <sys_id>bbf727b89368ea10974a1aebb9373cc0</sys_id>
+        <sys_name>Employeer Name</sys_name>
         <sys_package display_value="Insure" source="x_1652893_insure">3b538ff893a4ea10974a1aebb9373cb5</sys_package>
         <sys_policy/>
         <sys_scope display_value="Insure">3b538ff893a4ea10974a1aebb9373cb5</sys_scope>
-        <sys_update_name>sys_dictionary_x_1652893_insure_insure_employeername</sys_update_name>
+        <sys_update_name>sys_dictionary_x_1652893_insure_insure_employeer_name</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-03-25 15:39:01</sys_updated_on>
+        <sys_updated_on>2025-03-25 18:10:26</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
