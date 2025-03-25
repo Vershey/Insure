@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="employement_type" label="Employement Type" language="en" table="x_1652893_insure_insure">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>employement_type</element>
+            <help/>
+            <hint/>
+            <label>Employement Type</label>
+            <language>en</language>
+            <name>x_1652893_insure_insure</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-03-25 15:38:58</sys_created_on>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_name>Employement Type</sys_name>
+            <sys_package display_value="Insure" source="x_1652893_insure">3b538ff893a4ea10974a1aebb9373cb5</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Insure">3b538ff893a4ea10974a1aebb9373cb5</sys_scope>
+            <sys_update_name>sys_documentation_x_1652893_insure_insure_employement_type_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-03-25 15:38:59</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="7373433c93a4ea10974a1aebb9373c4e" label="Insure" max_length="40" name="x_1652893_insure_insure" type="collection">
+        <element choice="3" label="Loan Options" max_length="40" name="loan_options" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Personal" sequence="2" value="personal"/>
+                <element inactive_on_update="false" label="Tourism" sequence="3" value="tourism"/>
+                <element inactive_on_update="false" label="Education" sequence="0" value="education"/>
+                <element inactive_on_update="false" label="Buisness" sequence="1" value="buisness"/>
+            </choice>
+        </element>
+        <element choice="1" label="Employement Type" max_length="40" name="employement_type" type="radio">
+            <choice>
+                <element inactive_on_update="false" label="Associate Engineer" sequence="0" value="Associate Engineer"/>
+                <element inactive_on_update="false" label="Software Engineer" sequence="1" value="Specality Engineer"/>
+            </choice>
+        </element>
+        <element choice="1" display="true" label="State" max_length="255" name="state" type="radio">
+            <choice>
+                <element inactive_on_update="false" label="New Jersey" sequence="1" value="New Jersey"/>
+                <element inactive_on_update="false" label="Georgia" sequence="0" value="Georgia"/>
+                <element inactive_on_update="false" label="Alabama" sequence="4" value="Alabama"/>
+                <element inactive_on_update="false" label="Florida" sequence="2" value="Florida"/>
+                <element inactive_on_update="false" label="Wisconsin" sequence="3" value="Wisconsin"/>
+            </choice>
+        </element>
+        <element label="Loan Purpose" max_length="40" name="loan_purpose" type="string_full_utf8"/>
+        <element choice="3" label="Gender" max_length="40" name="gender" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Male" sequence="0" value="male"/>
+                <element inactive_on_update="false" label="Female" sequence="1" value="female"/>
+            </choice>
+        </element>
+        <element default="Tittus" label="FirstName" max_length="40" name="firstname" type="string"/>
+    </element>
+</database>
