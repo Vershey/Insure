@@ -34,5 +34,6 @@
         <element default="Barry" label="LastName" max_length="40" name="lastname" type="string"/>
         <element default="Princeton" label="Location" max_length="40" name="location" type="string_full_utf8"/>
         <element default="86 Parker Road Plainsboro" label="Line 1,Line 2" max_length="65536" name="line_1_line_2" type="html"/>
+        <element default="Varshan" label="Employeer Name" max_length="40" name="employeer_name" type="string"/>
     </element>
 </database>
